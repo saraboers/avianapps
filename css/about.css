@@ -1,20 +1,10 @@
-.evan{
+.employee{
   text-align: left;
   float: left;
   width: 25%;
   height: 25%;
   margin-left: 20%;
   margin-right: 20%;
-}
-
-.andrew{
-  text-align: left;
-  float: left;
-  width: 25%;
-  height: 25%;
-  margin-left: 20%;
-  margin-right: 20%;
-  margin-bottom: 10%;
 }
 
 .paragraph{
@@ -23,23 +13,9 @@
 	margin-right: 10px;
 }
 
-.paragraph2{
-	display: block;
-	width: 240%;
-	margin-right: 10px;
-}
-
 .social{
 	display: block;
 	margin-top: 300px;
-	margin-right: 10px;
-	float: left;
-	text-align: right;
-}
-
-.social2{
-	display: block;
-	margin-top: 375px;
 	margin-right: 10px;
 	float: left;
 	text-align: right;
