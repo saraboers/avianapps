@@ -3,19 +3,20 @@
   float: left;
   width: 25%;
   height: 25%;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 21%;
+  margin-right: 21%;
 }
 
 .paragraph{
 	display: block;
 	width: 240%;
+	margin-top: 16px;
 	margin-right: 10px;
 }
 
 .social{
 	display: block;
-	margin-top: 300px;
+	margin-top: 16px;
 	margin-right: 10px;
 	float: left;
 	text-align: right;
