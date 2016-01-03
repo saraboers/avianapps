@@ -1,0 +1,45 @@
+.evan{
+  text-align: left;
+  float: left;
+  width: 25%;
+  height: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.andrew{
+  text-align: left;
+  float: left;d
+  width: 25%;
+  height: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 10%;
+}
+
+.paragraph{
+	display: block;
+	width: 240%;
+	margin-right: 10px;
+}
+
+.paragraph2{
+	display: block;
+	width: 275%;
+	margin-right: 10px;
+}
+
+.social{
+	display: block;
+	margin-top: 22%;
+	margin-right: 10px;
+	float: left;
+	text-align: right;
+}
+
+.facebook{
+	display: inline-block;
+}
+
+.twitter{
+	display: inline-block;
